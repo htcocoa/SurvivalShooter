@@ -51,7 +51,7 @@ LightmapSettings:
     m_IndirectOutputScale: 1
     m_AlbedoBoost: 1
     m_TemporalCoherenceThreshold: 1
-    m_EnvironmentLightingMode: 0
+    m_EnvironmentLightingMode: 1
     m_EnableBakedLightmaps: 1
     m_EnableRealtimeLightmaps: 1
   m_LightmapEditorSettings:
@@ -72,7 +72,7 @@ LightmapSettings:
     m_FinalGatherRayCount: 256
     m_ReflectionCompression: 2
     m_MixedBakeMode: 2
-    m_BakeBackend: 1
+    m_BakeBackend: 0
     m_PVRSampling: 1
     m_PVRDirectSampleCount: 32
     m_PVRSampleCount: 500
@@ -89,7 +89,8 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ShowResolutionOverlay: 1
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000002, guid: d4cbad017498f1d48b323401cb5277ed,
+    type: 2}
   m_UseShadowmask: 1
 --- !u!196 &4
 NavMeshSettings:
@@ -1676,7 +1677,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerHealth: {fileID: 1618368786}
   enemy: {fileID: 1952182948723076, guid: d98d9f886b1632947bb14bad15e32483, type: 2}
-  spawnTime: 60
+  spawnTime: 10
   spawnPoints:
   - {fileID: 2016625239}
 --- !u!114 &2015581882
@@ -1691,7 +1692,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerHealth: {fileID: 1618368786}
-  enemy: {fileID: 1086588355509012, guid: 20aa29a0561b227409a23eff7f19218b, type: 2}
+  enemy: {fileID: 1249057894287856, guid: 20aa29a0561b227409a23eff7f19218b, type: 2}
   spawnTime: 3
   spawnPoints:
   - {fileID: 1500601683}

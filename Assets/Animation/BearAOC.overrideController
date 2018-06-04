@@ -1,0 +1,10 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: BearAOC
+  m_Controller: {fileID: 9100000, guid: 8d55717646ab39948962f0fb0b192a8d, type: 2}
+  m_Clips: []

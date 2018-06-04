@@ -1676,7 +1676,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerHealth: {fileID: 1618368786}
-  enemy: {fileID: 1952182948723076, guid: d98d9f886b1632947bb14bad15e32483, type: 2}
+  enemy: {fileID: 1516701720245894, guid: dee3d22677a04794bb8cb5a5d8eb7f78, type: 2}
   spawnTime: 10
   spawnPoints:
   - {fileID: 2016625239}

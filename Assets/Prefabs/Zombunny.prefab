@@ -24,9 +24,9 @@ GameObject:
   - component: {fileID: 82459304809564558}
   - component: {fileID: 135027429984025720}
   - component: {fileID: 136174003777206838}
+  - component: {fileID: 114023192954623712}
   - component: {fileID: 114144663112471278}
   - component: {fileID: 195195843926693798}
-  - component: {fileID: 114023192954623712}
   - component: {fileID: 114170756507632396}
   m_Layer: 10
   m_Name: Zombunny
@@ -344,6 +344,7 @@ MonoBehaviour:
   sinkSpeed: 2.5
   scoreValue: 10
   deathClip: {fileID: 8300000, guid: 1d3bfb9269f136947bf8ac164cace1ff, type: 3}
+  hitParticles: {fileID: 0}
 --- !u!135 &135027429984025720
 SphereCollider:
   m_ObjectHideFlags: 1

@@ -1,7 +1,5 @@
 # SurvivalShooter
 
-이 프로젝트는 유니티 교육을 위해 제작되었다.
-
 이 프로젝트는 아이가 꿈속에서 괴물로 변한 인형들을 총으로 쏴서 없애는 게임이다.
 
 ![Survival1](http://drive.google.com/uc?export=view&id=15i2IP0r-Bbeo6Ekorm2jzd-wqisgO7vb)
